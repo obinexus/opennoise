@@ -1,5 +1,3 @@
-## opensense-noise
-
 # OpenSense Noise  
 ## Systemic Interference Processing Engine
 
